@@ -1,21 +1,21 @@
-# Project Name
+Project Name
 First Repository
-# Video Game Sales Data Analysis
+Video Game Sales Data Analysis
 
-## Short Description
+Short Description
 This project contains a Python script that reads and processes a CSV file containing video game sales data.
 
-## Getting Started
+ Getting Started
 
-### Prerequisites
+Prerequisites
 - Python 3.x
 - pandas library
 
-### Installing
+Installing
 pip install pandas
 
 cd path/to/your/filespython load_vgsales.py
 
-`https://github.com/dinmatilda/first One`with your actual GitHub repository URL.
+
 
 
