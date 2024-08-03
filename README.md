@@ -16,5 +16,6 @@ pip install pandas
 
 cd path/to/your/filespython load_vgsales.py
 
+`https://github.com/dinmatilda/first One`with your actual GitHub repository URL.
 
 
