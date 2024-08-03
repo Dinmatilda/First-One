@@ -15,3 +15,6 @@ This project contains a Python script that reads and processes a CSV file contai
 To install the pandas library, use the following command:
 ```bash
 pip install pandas
+
+cd path/to/your/files
+
